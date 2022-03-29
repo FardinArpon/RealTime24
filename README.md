@@ -1,6 +1,6 @@
-# Web_Portal_Test-Automation_Selenium_Junit-Gradle
+# RealTime24 Website_Test-Automation
 
-I test Green University student web portal functional test in JUnit Selenium
+RealTime24 Website_Test-Automation_Selenium_Junit-Gradle
 After read this Please Watch Test Repoet & Screen rec. for better understanding my project. Link is down below.
 
 ## Technology:
@@ -26,14 +26,7 @@ After read this Please Watch Test Repoet & Screen rec. for better understanding 
 gradle clean test
 ```
 3. Selenium will open the browser and start automation.
-4. To view report, type this command:
-```sh
-allure generate allure-results --clean -o allure-report
-allure serve allure-results
-```
-## Report View & Screen Rec. 
-## https://drive.google.com/file/d/19qNEPCCq74EF70hbRqWR7BEhqv7iwK8k/view?usp=sharing
 
-![image](https://user-images.githubusercontent.com/87892957/134741387-693c7fb6-bc88-492d-a23f-080049215dc6.png)
+## Report
+![image](https://user-images.githubusercontent.com/87892957/160559210-c3973bcb-395e-4de5-9c33-c6e41d47210c.png)
 
-# RealTime24
