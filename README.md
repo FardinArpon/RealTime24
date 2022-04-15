@@ -25,7 +25,7 @@ After read this Please Watch Test Repoet & Screen rec. for better understanding 
 ```sh
 gradle clean test
 ```
-3. Selenium will open the browser and start automation.
+3. Selenium will open the browser and start automation test
 
 ## Report
 ![image](https://user-images.githubusercontent.com/87892957/160559210-c3973bcb-395e-4de5-9c33-c6e41d47210c.png)
